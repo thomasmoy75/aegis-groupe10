@@ -3,3 +3,4 @@ Fail2Ban configuré pour le port 2222 et activé.
 Mardi midi : SSH sécurisé (2222), UFW actif, Fail2Ban opérationnel.
 Mardi après-midi : Installation Apache/PHP, simulation d'incident (backdoor.php) et analyse des logs effectuée.
 Analyse incident : Détection d'un webshell simulé et vérification des logs Apache terminée.
+Mercredi : Nettoyage fini et script de backup ajouté.
