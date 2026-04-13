@@ -1,2 +1,3 @@
 Serveur Debian initialisé avec succès pour l'audit TechSud
 Fail2Ban configuré pour le port 2222 et activé.
+Mardi midi : SSH sécurisé (2222), UFW actif, Fail2Ban opérationnel.
