@@ -1,0 +1,14 @@
+{
+    "Projet": "AEGIS - Audit TechSud",
+    "Ports_Reseau": {
+        "Port_22": "Ferme",
+        "Port_80": "Ouvert",
+        "Port_2222": "Ouvert"
+    },
+    "Services_Systeme": {
+        "ssh": "Actif",
+        "ufw": "Inactif",
+        "fail2ban": "Actif",
+        "apache2": "Actif"
+    }
+}
